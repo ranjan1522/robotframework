@@ -1,0 +1,2 @@
+﻿${firstname};${lastname};${date};${month};${year};${email};${company_nm};${pwd};${confirm_pwd};
+Rita;Singh;1;June;1992;abc@gmail.com;ABC Pvt Ltd;P@ssword@2345;P@ssword@2345;
